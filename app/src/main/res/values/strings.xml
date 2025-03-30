@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android.PracticaPersonal.Clase6.2</string>
+    <string name="escriba_su_nombre">Escriba su nombre.</string>
+    <string name="soltero">Soltero</string>
+    <string name="casado">Casado</string>
+    <string name="delegacion">Delegación</string>
+    <string-array name="delegacion">
+        <item>Valencia</item>
+        <item>Madrid</item>
+        <item>Sevilla</item>
+        <item>Bilbao</item>
+    </string-array>
+    <string name="futbol">Futbol</string>
+    <string name="baloncesto">Baloncesto</string>
+    <string name="tenis">Tenis</string>
+    <string name="guardar">Guardar</string>
+
+</resources>
